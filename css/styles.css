@@ -818,8 +818,6 @@
         }
         .subscribe-svg{
           margin-left: 10px;
-          transform: scale(1);
-          transition:  transform var(--transit-time) var(--transition-properties);
         }
         .input-subscribe:focus{
           border : 1px solid var(--interactive-color);
