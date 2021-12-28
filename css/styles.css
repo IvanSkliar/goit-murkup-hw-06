@@ -431,9 +431,6 @@
     border-color: var(--interactive-color);
     background-origin: border-box;
   }
-  .checkbox-form{
-    transition: border-color var(--transit-time) var(--transition-properties);
-  }
   .checkbox-label-form::before{
     display: inline-block;
     content: "";
