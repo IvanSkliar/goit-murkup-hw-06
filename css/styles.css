@@ -426,8 +426,6 @@
     background-origin: border-box;
   }
   .checkbox-form:hover + .checkbox-label-form::before {
-    background-color: #2196f3;
-    background-image: url(../icon/icon\ check\ \(1\).svg);
     background-size: contain;
     background-repeat: no-repeat;
     border-color: var(--interactive-color);
